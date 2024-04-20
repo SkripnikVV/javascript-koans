@@ -1,9 +1,9 @@
 describe('About Expects', function() {
 
-  // We shall contemplate truth by testing reality, via spec expectations.
+  // Мы будем созерцать истину, проверяя реальность через определенные ожидания.
   it('should expect true', function() {
 
-    // Your journey begins here: Replace the word false with true 
+    // Ваше путешествие начинается здесь: замените слово «ложь» на «истина».
     expect(true).toBeTruthy();
   });
 
